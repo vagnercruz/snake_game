@@ -1,0 +1,14 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(4, 71, 4)
+}
+
+h1{
+    font-weight: 700;
+    text-transform: uppercase;
+}
