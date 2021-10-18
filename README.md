@@ -1,2 +1,2 @@
-# snake_game
-Jogo da cobrinha feito para o bootcamp html web developer da Digital Innovation One
+Snake Game
+Jogo da Cobrinha criado com JavaScript, HTML e CSS. Aula do Bootcamp HTML Web Developer - Digital Innovation One 
